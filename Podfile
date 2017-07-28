@@ -10,7 +10,7 @@ target 'Wuxianda' do
     pod 'BaiduMapKit'
     pod 'SVProgressHUD'
     pod 'YYKit'
-    pod 'SDWebImage'
+    pod 'SDWebImage', '~> 3.8.0'
     pod 'MJExtension'
     pod 'WebViewJavascriptBridge'
     pod 'MJRefresh'
